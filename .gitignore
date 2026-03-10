@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-*$py.class
-.streamlit/secrets.toml
-.env
-venv/
-env/
-.DS_Store
-*.pyc
